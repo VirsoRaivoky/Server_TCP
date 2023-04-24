@@ -1,0 +1,15 @@
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\bin\Debug\net6.0\Cliente_UDP.exe
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\bin\Debug\net6.0\Cliente_UDP.deps.json
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\bin\Debug\net6.0\Cliente_UDP.runtimeconfig.json
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\bin\Debug\net6.0\Cliente_UDP.dll
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\bin\Debug\net6.0\Cliente_UDP.pdb
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.csproj.AssemblyReference.cache
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.AssemblyInfoInputs.cache
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.AssemblyInfo.cs
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.csproj.CoreCompileInputs.cache
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.dll
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\refint\Cliente_UDP.dll
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.pdb
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\Cliente_UDP.genruntimeconfig.cache
+C:\Users\Wilso\Documents\Projeto_UDP\Cliente_UDP\Cliente_UDP\obj\Debug\net6.0\ref\Cliente_UDP.dll
